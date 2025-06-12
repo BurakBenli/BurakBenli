@@ -1,11 +1,13 @@
-# 💫 About Me:
-Hello, I'm Burak, a Senior Software Developer.
-I am a Computer Engineer. I am someone who can think analytically and creatively, eager to learn, compatible with teamwork, able to apply what I have learned easily, and responsible.
+![](assets/header.png)
+
+# 👨🏻‍💻 About Me
+Hello, I'm Burak, a Senior Software Developer / Computer Engineer.
+I am someone who can think analytically and creatively, eager to learn, compatible with teamwork, able to apply what I have learned easily, and responsible.I'm passionate about pushing the boundaries of technology to solve complex problems. With a focus on continuous learning, I aim to contribute innovative solutions in the field of artificial intelligence.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-benli-41298455/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-b-41298455/) 
 
-# 💻 Tech Stack:
+# 🛠 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
