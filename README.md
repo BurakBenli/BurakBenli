@@ -1,7 +1,7 @@
 ![](assets/header.png)
 
 # 👨🏻‍💻 <bold> About Me </bold>
-Hello, I'm Burak, a Senior Software Developer / Computer Engineer.
+Hello, I'm Burak, a Software Developer.
 I am someone who can think analytically and creatively, eager to learn, compatible with teamwork, able to apply what I have learned easily, and responsible.I'm passionate about pushing the boundaries of technology to solve complex problems. With a focus on continuous learning, I aim to contribute innovative solutions in the field of artificial intelligence.
 
 ## 🌐<bold> Socials: </bold>
