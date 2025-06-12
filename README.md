@@ -6,7 +6,8 @@ I am someone who can think analytically and creatively, eager to learn, compatib
 
 ## 🌐<bold> Socials: </bold>
 <p align="center">
-  <a href="https://www.linkedin.com/in/BurakBenli/"><img width="100px" height="25px" src="https://img.shields.io/badge/https://www.linkedin.com/in/burak-b-41298455/?logo=Linkedin"/</a>&nbsp;
+ <a href="https://https://www.linkedin.com/in/burak-b-41298455/"><img width="100px" height="25px" src="https://img.shields.io/badge/https://www.linkedin.com/in/burak-b-41298455/?logo=Linkedin"/></a>&nbsp;
+
 </p>
 
 # 🛠 <bold> Tech Stack: </bold>
